@@ -1,0 +1,25 @@
+{
+  "name": "rpi_nodejs_sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox environment for NodeJS on RPi",
+  "main": "lightswitch.js",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "socket.io": "^1.3.7",
+    "httpdispatcher": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelv/RPI_NODEJS_Sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelv/RPI_NODEJS_Sandbox/issues"
+  },
+  "homepage": "https://github.com/axelv/RPI_NODEJS_Sandbox#readme"
+}

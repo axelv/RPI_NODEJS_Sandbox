@@ -1,0 +1,2 @@
+C:\Users\Axelv\Documents\NodeJS\RPI_NODEJS_Sandbox\obj\Debug\RPI_NODEJS_Sandbox.njsprojResolveAssemblyReference.cache
+C:\Users\Axelv\Documents\NodeJS\RPI_NODEJS_Sandbox\bin\Microsoft.NodejsTools.WebRole.dll
